@@ -1,0 +1,1 @@
+Learning how to make a promodoro app for linux 
